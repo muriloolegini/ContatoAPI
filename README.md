@@ -97,8 +97,12 @@ $ dotnet watch run
 
 ##
 
-[Descrição do Projeto](#Descrição-do-Projeto)
+<div align="center">
+  
+  [Descrição do Projeto](#Descrição-do-Projeto) | [Instalação e Acesso ao Projeto](#Instalação-e-Acesso-ao-Projeto) | [Status do Projeto](#Status-do-Projeto)
 
+</div>
+ 
 <div align="center">
   
   [⬆ Voltar ao topo](https://github.com/muriloolegini/ContatoAPI)
