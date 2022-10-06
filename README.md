@@ -1,4 +1,6 @@
-<h1> API REST para cadastro de Contatos </h1>
+<h1 align="center"> 🚧 Projeto em README construção... 🚧 </h1>
+
+<h2 align="center"> API REST para cadastro de Contatos </h2>
 
 ## Descrição do Projeto
 
@@ -29,7 +31,7 @@
   - Antes de começar, você precisa ter instalado em sua máquina a ferramenta [Git](https://git-scm.com/).
 Além disto é bom ter um editor de código para trabalhar como [VSCode](https://code.visualstudio.com)
 
-##
+## Instalação e Acesso ao Projeto
 
 1. É necessário instalar o SDK .NET 6.0
 
@@ -62,7 +64,7 @@ $ dotnet-ef database update
 # Execute a aplicação em modo de desenvolvimento
 $ dotnet watch run
 ```
-## Status do projeto
+## Status do Projeto
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=red&style=for-the-badge)
 ##
 
@@ -94,6 +96,8 @@ $ dotnet watch run
 </div>
 
 ##
+
+[Descrição do Projeto](#Descrição-do-Projeto)
 
 <div align="center">
   
