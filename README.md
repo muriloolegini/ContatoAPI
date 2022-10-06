@@ -63,7 +63,7 @@ $ dotnet-ef database update
 $ dotnet watch run
 ```
 ## Status do projeto
-![Badge Concluído](https://img.shields.io/badge/STATUS-CONCLUIDO-red)
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=red&style=for-the-badge)
 ##
 
 <div align="center">
