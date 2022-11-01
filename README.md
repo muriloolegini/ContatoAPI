@@ -2,8 +2,6 @@
 
 <h2 align="center"> API REST para cadastro de Contatos </h2>
 
-## Descrição do Projeto
-
 <h3>🧑‍💻 Tecnologias e práticas usadas</h3>
 
 - ASP.NET Core com .NET 6
@@ -81,7 +79,7 @@ $ dotnet watch run
 
 <div align="center">
 
-  <a href="https://github.com/muriloolegini"><img src="https://dsm01pap009files.storage.live.com/y4m5U4n_AI0H3GBCLTsh_E6Rt6-nmjYrNi_3uz8CXBSRSg0zwjbJMFJ3GnBnF0E8g0J0S-4nigRR0IDqiVXU1_L1ot3K1ODlXCjXQdUeAUZP5r3Oyhxn_rVNGuYcAr4ocNrAYYMnephq4oX3sQdaEEA6HEJIgbnYFQK_RH94t4nlKB0b9-P2HqDi467GKx6Yk3Mmw_EwnUyjWcPIrE23QgQpSu3gVtw6nssb_HW1HzCh0M?encodeFailures=1&width=500&height=500" width=115><br><sub>Murilo Olegini</sub>
+  <a href="https://www.linkedin.com/in/murilo-olegini-pcd/"><img src="https://dsm01pap009files.storage.live.com/y4m5U4n_AI0H3GBCLTsh_E6Rt6-nmjYrNi_3uz8CXBSRSg0zwjbJMFJ3GnBnF0E8g0J0S-4nigRR0IDqiVXU1_L1ot3K1ODlXCjXQdUeAUZP5r3Oyhxn_rVNGuYcAr4ocNrAYYMnephq4oX3sQdaEEA6HEJIgbnYFQK_RH94t4nlKB0b9-P2HqDi467GKx6Yk3Mmw_EwnUyjWcPIrE23QgQpSu3gVtw6nssb_HW1HzCh0M?encodeFailures=1&width=500&height=500" width=115><br><sub>Murilo Olegini</sub>
 | :---: |
 
 </div>
@@ -96,12 +94,6 @@ $ dotnet watch run
 </div>
 
 ##
-
-<div align="center">
-  
-  [Descrição do Projeto](#Descrição-do-Projeto) | [Instalação e Acesso ao Projeto](#Instalação-e-Acesso-ao-Projeto) | [Status do Projeto](#Status-do-Projeto)
-
-</div>
  
 <div align="center">
   
